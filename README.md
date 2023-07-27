@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Just another lad trying to code</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/coding-11jacPItBsJDLa">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/db9bc970668ef6d18ef7390e5fa4d92751f654d7c48090e2a607b14d232aa64e/68747470733a2f2f33382e6d656469612e74756d626c722e636f6d2f34343061333464646132393436366530643238393662613938326238653862362f74756d626c725f6e6779397673624a6e61317161763375736f315f3530302e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshh18&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshh18" /> </p>
 
