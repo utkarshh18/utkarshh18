@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Just another lad trying to code</h3>
-img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/coding-11jacPItBsJDLa"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/coding-11jacPItBsJDLa">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshh18&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshh18" /> </p>
 
